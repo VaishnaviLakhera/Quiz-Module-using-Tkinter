@@ -1,0 +1,23 @@
+{
+    "question":[
+        "Q1: '2' + '2' in python is equal to " ,
+        "Q2: which is not a data level of measurement " ,
+        "Q3: which is not a access modifiers " ,
+        "Q4: no parameter constructer is known as ",
+        "Q5: member selection through a pointer to function is denoted by "
+
+    ],
+
+    "option":[
+        ["4","'4'","22","'22'"],
+        ["nominal","discrete","ordinal","ratio"],
+        ["privated","public","protected friend","public friend"],
+        ["default constructer","parametric constructter","copy constructer","no parameter constructer"],
+        ["::",".",".*","$"]
+
+    ],
+
+    "answer":
+        [4,2,4,1,3]
+
+}
